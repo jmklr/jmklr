@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  🎓 Senior at West Virignia University finishing my BSBAD in Management Information Systems with a minor in Business Cybersecurity
+-  🎓 Senior at West Virignia University finishing my BSBAD in Management Information Systems with a minor in Business Cybersecurity with Magna Cum Laude honors
 - 🏫 Incoming MS Business Cybersecurity Management candidate at West Virginia University
-- 🖥️ Aspiring network engineer
-- 📡 Interested in network infrastructure, network security, delivery of on-premises on hybrid network/cloud solutions, and network/broadband infrastructure equity
-- 📖 Currently pursuing CompTIA Network+, with ambitions to pursue the CCNA, Security+, and others by the beginning of the 2025-26 academic year
+- 🖥️ Aspiring network infrastructure and/or security engineer
+- 📡 Interested in network infrastructure, network security, delivery of on-premises on hybrid network/cloud solutions, enterprise technology, and network/broadband infrastructure equity
+- 👨‍🎓 Long-term goals include obtaining Phd, CCIE, and CISSP
+- 📖 Network+ ce Certified, Actively Pursuing CCNA and Security+ ce with goal to obtain both by end of August, 2025
 - 💡 Actively advancing understanding of network services and systems by upgrading and monitoring personal LAN/WLAN and employing technologies deployed in homelab environment
 - ❓ Brainstorming potential Python projects for use by network field technicians and aspiring infrastructure and security professionals
 - 🤝Looking for connections to learn more about networking and cybersecurity
