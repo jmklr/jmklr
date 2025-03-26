@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🖥️ Aspiring network infrastructure and/or security engineer
 - 📡 Interested in network infrastructure, network security, delivery of on-premises on hybrid network/cloud solutions, enterprise technology, and network/broadband infrastructure equity
 - 👨‍🎓 Long-term goals include obtaining Phd, CCIE, and CISSP
-- 📖 Network+ ce Certified, Actively Pursuing CCNA and Security+ ce with goal to obtain both by end of August, 2025
+- 📖 Network+ ce Certified, Actively Pursuing CCNA and ISC2 CC with goal to obtain both by end of August, 2025
 - 💡 Actively advancing understanding of network services and systems by upgrading and monitoring personal LAN/WLAN and employing technologies deployed in homelab environment
 - ❓ Brainstorming potential Python projects for use by network field technicians and aspiring infrastructure and security professionals
 - 🤝Looking for connections to learn more about networking and cybersecurity
