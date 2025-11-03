@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 -  🎓 Recent Graduate from West Virignia University with a BSBAD in Management Information Systems with a minor in Business Cybersecurity with Magna Cum Laude honors
-- 🏫 Incoming MS Business Cybersecurity Management candidate at West Virginia University
+- 🏫 Current MS Business Cybersecurity Management candidate at West Virginia University
 - 🖥️ Aspiring network infrastructure/operations engineer
 - 📡 Interested in network infrastructure, network security, delivery of on-premises hybrid network/cloud solutions, enterprise technology, and network/broadband infrastructure equity
 - 👨‍🎓 Long-term goals include obtaining Phd, CCIE, and CISSP
